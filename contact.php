@@ -18,7 +18,7 @@
 
 
     <?php
-    $profilePic = 'assets/profilePic.jpeg';
+    $profilePic = '/assets/profilePic.jpeg';
 
     include 'nav.php';
     ?>
@@ -32,7 +32,7 @@
     </div>
 
     <div class="qrDisplay">
-        <img class="qr" src="assets/session_qr.png">
+        <img class="qr" src="/assets/session_qr.png">
     </div>
     <div class="tipWallet">
 
@@ -41,7 +41,7 @@
             059a914193bab7b652598058ac1f0<br>c7dd570689d19788def83e9d0695b2405790a
         </p>
         <div class="qrDisplay">
-            <img class="qr" src="assets/xmr_qr.png">
+            <img class="qr" src="/assets/xmr_qr.png">
         </div>
         <div class="tipWallet">
 

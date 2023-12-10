@@ -13,7 +13,7 @@
 
 <body>
     <?php
-    $profilePic = 'assets/profilePic.jpeg';
+    $profilePic = '/assets/profilePic.jpeg';
 
     include 'nav.php';
     ?>

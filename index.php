@@ -16,8 +16,8 @@
     $profilePic = 'assets/profilePic.jpeg';
 
     include 'nav.php';
-    $xmr = 'assets/xmr.svg';
-    $btc = 'assets/btc.svg';
+    $xmr = '/assets/xmr.svg';
+    $btc = '/assets/btc.svg';
     ?>
     <div class="homeDisplay">
         <img class="profilePic" src="<?php echo $profilePic; ?>" alt="profile-picture">

@@ -14,7 +14,7 @@
 <body>
 
     <?php
-    $profilePic = 'assets/profilePic.jpeg';
+    $profilePic = '/assets/profilePic.jpeg';
 
     include 'nav.php';
     ?>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="qrDisplay">
-        <img class="qr" src="assets/xmr_qr.png">
+        <img class="qr" src="/assets/xmr_qr.png">
     </div>
     <div class="tipWallet">
 
