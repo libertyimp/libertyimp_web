@@ -1,0 +1,122 @@
+:root {
+    
+    --primary-background: rgb(12 11 11);;
+    --purple: rgb(172, 136, 255);
+    --primary-text: rgb(255, 255, 255);
+    --seconday-text: rgb(232, 230, 227);
+    --hover-link: rgb(214, 205, 205);
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+    background-color: var(--primary-background);
+}
+
+p {
+    color: var(--seconday-text);
+    word-wrap: wrap;
+}
+
+.homeDisplay {
+    text-align: center;
+
+}
+
+.profilePic {
+    margin-top: 5%;
+    border-radius: 50%;
+    border: 2px solid var(--purple);
+    height: auto;
+    width: 40%;
+    max-width: 200px;
+    height: auto;
+}
+
+.nameTitle {
+    color: var(--primary-text);
+    margin-top: 1%;
+    font: 'Heebo Light';
+    font-weight: 500;
+}
+
+.navDisplay {
+text-align: center;
+}
+
+.navOptions {
+    text-decoration: none; 
+    color: var(--purple);
+    padding: 8px; 
+}
+
+.navOptions:hover {
+    text-decoration: none; 
+    color: var(--hover-link);
+    padding: 8px; 
+}
+
+.sloganDisplay p{
+    text-align: center;
+    text-decoration: underline var(--purple) 2px;
+    color: var(--seconday-text);
+}
+
+.infoDisplay {
+    text-align: center;
+    color: var(--seconday-text);
+    font-weight: 500;
+}
+
+.nostrLink{
+    text-decoration: none;
+    color: var(--purple);
+
+}
+
+.nostrLink:hover{
+    text-decoration: none;
+    color: var(--hover-link);
+
+}
+
+
+.tipDisplay {
+    text-align: center;
+    align-items: center;
+    color: var(--seconday-text);
+    
+}
+
+.tipText img{
+    margin: 8px 8px;
+}
+
+.xmrTip {
+    width: 64px;
+    max-width: 64px;
+    height: auto;
+}
+
+.tipLink {
+    text-decoration: none;
+}
+
+
+.qrDisplay{
+    text-align: center;
+}
+
+
+.qr{
+    margin-top: 5%;
+    border: 2px solid var(--purple);
+    height: auto;
+    width: 40%;
+    max-width: 200px;
+    height: auto;
+}
+
+.tipWallet{
+    color: var(--seconday-text);
+    text-align: center;
+}
