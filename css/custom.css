@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(12, 11, 11);
+}
+
+p{
+    font-size: 2rem;
+}
+
+.container{
+    text-align: center;
+    padding-top: 5%;
+}
+
+nav.navbar ul li {
+    display: inline;
+    position: relative;
+    padding: 8px;
+    font-size: large;
+    
+}
+
+.item{
+    text-decoration: none;
+}
+
+.nostrLink{
+    text-decoration: none;
+    font-size: medium;
+}
+
+.profilePic{
+    height: auto;
+    width: 25%;
+    border: 2px solid;
+    border-radius: 50%;
+    border-color: rgb(172, 136, 255);
+}
+
+.qr{
+    width: 22%;
+}
+
+.tip{
+    margin-top: 25px;
+}
+
+
+.tipLink img{
+    width: 10%;
+    padding: 8px;
+}
+
+#tipLink{
+    color: rgb(12, 11, 11);
+}
