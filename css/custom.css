@@ -33,7 +33,8 @@ nav.navbar ul li {
     width: 25%;
     border: 2px solid;
     border-radius: 50%;
-    border-color: rgb(172, 136, 255);
+   border-color: rgb(172, 136, 255);
+   box-shadow: 0 0 20px rgb(112, 35, 143);
 }
 
 .qr{
