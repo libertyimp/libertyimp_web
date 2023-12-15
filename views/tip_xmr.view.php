@@ -30,6 +30,7 @@
             </div>
         </div>
     </div>
+    <?php require("./partials/animation.php") ?>
     <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>

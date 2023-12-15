@@ -39,6 +39,9 @@ nav.navbar ul li {
 
 .qr{
     width: 22%;
+    border: 2px solid;
+    border-color: rgb(172, 136, 255);
+    box-shadow: 0 0 20px rgb(112, 35, 143);
 }
 
 .tip{
