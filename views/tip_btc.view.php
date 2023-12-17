@@ -21,7 +21,7 @@
                         <img class="qr" src="./assests/btc_qr.png">
                     </div>
                     <p>
-                        bc1q336k0z347qmvrer4sh5us0xrqshlknu6qhnhcf
+                        bc1q336k0z347qmvrer4<br>sh5us0xrqshlknu6qhnhcf
                     </p>
                     <p>Lightning</p>
                     <div class="imgLink">

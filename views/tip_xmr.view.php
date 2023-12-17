@@ -21,7 +21,7 @@
                         <img class="qr" src="./assests/xmr_qr.png">
                     </div>
                     <p>
-                        8BtzVmQCw96bajp24MrZb2Wmk<br>Y7jVYeU1eNU9dHcnijKV1mSNensP8AQSxuys<br>agZbwKSSxC541Ve22E6qXKrmaCE2GEFN7c
+                        8BtzVmQCw96bajp24MrZb2Wmk<br>Y7jVYeU1eNU9dHcnijKV1mSNensP<br>8AQSxuysagZbwKSSxC541Ve<br>22E6qXKrmaCE2GEFN7c
                     </p>
 
 
