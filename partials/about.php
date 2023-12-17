@@ -1,7 +1,7 @@
 <p class="aboutIndex">
     I'm an aspiring web dev currently learning PHP.<br>
     I plan to use this site to display my projects as I complete them.<br>
-    I'm a believer in Monero and Bitcoin.<br>
+    I'm a believer in Monero.<br>
 </p>
 <a class="nostrLink" href="https://twitter.com/libertyimp">
     <b>Follow me on X!</b>
