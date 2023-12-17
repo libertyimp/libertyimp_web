@@ -29,6 +29,12 @@
                         <p>Contact Me on SimpleX</p>
                     </a>
 
+                    <h3>Telegram</h3>
+                    <img class="qr" src="./assests/telegram_qr.jpeg">
+                    <a class="navOptions" href="https://t.me/libertyimp">
+                        <p>Contact Me on Telegram</p>
+                    </a>
+
                 </div>
             </div>
         </div>
