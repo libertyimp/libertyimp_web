@@ -1,5 +1,5 @@
 <p class="aboutIndex">
-    I'm an aspiring web dev currently learning PHP.<br>
+    I'm an aspiring programmer.<br>
     I plan to use this site to display my projects as I complete them.<br>
     I'm a believer in Monero.<br>
 </p>
