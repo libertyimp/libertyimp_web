@@ -21,7 +21,7 @@
                         <img class="qr" src="./assests/wow_qr.png">
                     </div>
                     <p>
-                        WW2ce1or7MNagVfBvtnPWvFqYnAbEiPv<br>rY2ehgZgHrnfjoRVYjrH3Sbf<br>FfNf4gXM9tjY36cx6<br>Vpzb1e8wTyDAy9C26zN6vhxG
+                        WW2ce1or7MNagVfBvtnPWvFqYnA<br>bEiPvrY2ehgZgHrnfjoRVYjrH3Sbf<br>FfNf4gXM9tjY36cx6<br>Vpzb1e8wTyDAy9C26zN6vhxG
                     </p>
 
 
