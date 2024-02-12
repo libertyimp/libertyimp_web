@@ -1,7 +1,7 @@
 <p class="aboutIndex">
     Anarchy, Free Market, Capitalism<br>
-    I'm a believer in Monero.<br>
-    Support the Monero economy on <a class="nostrLink" href="https://monerica.com">Monerica</a>.<br>
+    Privacy is vital to a free society.<br>
+    Support the Monero economy on <a class="nostrLink" href="https://monerica.com"><b>Monerica</b></a>.<br>
 
 </p>
 <a class="nostrLink" href="https://twitter.com/libertyimp">
