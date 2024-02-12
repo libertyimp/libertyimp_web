@@ -1,8 +1,8 @@
 <p class="aboutIndex">
-    I'm an aspiring programmer.<br>
-    I plan to use this site to display my projects as I complete them.<br>
+    Anarchy, Free Market, Capitalism<br>
     I'm a believer in Monero.<br>
-    Support the Monero economy on <a class="nostrLink" href="https://monerica.com">Monerica</a>.
+    Support the Monero economy on <a class="nostrLink" href="https://monerica.com">Monerica</a>.<br>
+
 </p>
 <a class="nostrLink" href="https://twitter.com/libertyimp">
     <b>Follow me on X!</b>
