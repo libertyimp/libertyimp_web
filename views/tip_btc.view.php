@@ -24,10 +24,7 @@
                         bc1q336k0z347qmvrer4<br>sh5us0xrqshlknu6qhnhcf
                     </p>
                     <p>Lightning</p>
-                    <div class="imgLink">
-                        <img class="qr" src="./assests/btc_qr.png">
-                    </div>
-                    <p>libertyimp@getalby.com</p>
+                    <p>libertyimp.minibits.cash</p>
 
 
 
