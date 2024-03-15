@@ -13,6 +13,11 @@
     <b>Follow me on Nostr!</b>
 </a>
 <br>
+<a class="nostrLink" href="https://suchwow.xyz/u/libertyimp">
+    <b>My Wownero Memes</b>
+
+</a>
+<br>
 <a class="nostrLink" href="https://www.youtube.com/channel/UCDrbV_qRfCTczpDVwx8bPIA">
     <b>Subscribe on YouTube!</b>
 </a>
