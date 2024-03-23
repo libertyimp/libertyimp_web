@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require("./partials/head.php") ?>
+<?php require ("./partials/head.php") ?>
 
 <body>
 
@@ -16,18 +16,16 @@
                 <div class="fourcolumns">
                     <img class="profilePic" src="./assests/profilePic.jpeg">
                     <h3><b>LibertyImp</b></h3>
-                    <?php require("./partials/nav.php") ?>
+                    <?php require ("./partials/nav.php") ?>
 
-                    <p>This section is currently empty due to this site being my first project.<br>However, I will be
-                        sure
-                        to keep this page up to date as I complete projects in the near future.</p>
+                    <p>No projects currently.</p>
 
 
                 </div>
             </div>
         </div>
     </div>
-    <?php require("./partials/animation.php") ?>
+    <?php require ("./partials/animation.php") ?>
     <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>
