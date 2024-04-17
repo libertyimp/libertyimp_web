@@ -14,11 +14,6 @@
 </a>
 
 <br>
-<a class="ipLink" href="https://suchwow.xyz/u/libertyimp">
-    <b>My Wownero Memes</b>
-
-</a>
-<br>
 <a class="ipLink" href="https://www.youtube.com/channel/UCDrbV_qRfCTczpDVwx8bPIA">
     <b>Subscribe on YouTube!</b>
 </a>
