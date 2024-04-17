@@ -21,9 +21,9 @@
                         <img class="qr" src="./assests/xmr_qr.png">
                     </div>
                     <p>
-                        8BtzVmQCw96bajp24MrZb2WmkY7jVYeU1eNU9d<br>
-                        HcnijKV1mSNensP8AQSxuysagZbwKSSxC541Ve<br>
-                        22E6qXKrmaCE2GEFN7c
+                        8BtzVmQCw96bajp24MrZb2WmkY7jVY<br>
+                        eU1eNU9dHcnijKV1mSNensP8AQSxuy<br>
+                        sagZbwKSSxC541Ve22E6qXKrmaCE2GEFN7c
                     </p>
 
 
