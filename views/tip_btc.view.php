@@ -21,7 +21,8 @@
                         <img class="qr" src="./assests/btc_qr.jpeg">
                     </div>
                     <p>
-                        bc1q94tezxnez3lxtu8cp2ppu2yyvxgvlw4mt2a585
+                        bc1q94tezxnez3lxtu8cp2ppu2yy<br>
+                        vxgvlw4mt2a585
                     </p>
 
                     <br>
