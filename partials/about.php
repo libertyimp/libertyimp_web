@@ -8,12 +8,3 @@
     <b>Follow me on Nostr!</b>
 </a>
 <br>
-
-<a class="ipLink" href="https://twitter.com/libertyimp">
-    <b>Follow me on X!</b>
-</a>
-
-<br>
-<a class="ipLink" href="https://www.youtube.com/channel/UCDrbV_qRfCTczpDVwx8bPIA">
-    <b>Subscribe on YouTube!</b>
-</a>
