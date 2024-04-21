@@ -12,4 +12,3 @@
         <img class="qr" src="./assests/npub.png">
     </div>
 </a>
-<br>
