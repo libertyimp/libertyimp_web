@@ -6,5 +6,10 @@
 
 <a class="ipLink" href="https://snort.social/nprofile1qqst7sd7ejyrree3tkdfn7plz95snxtqt7a4j36zxncfrfskz0w9nyg894jma">
     <b>Follow me on Nostr!</b>
+
+    <br>
+    <div class="imgLink">
+        <img class="qr" src="./assests/npub.png">
+    </div>
 </a>
 <br>
