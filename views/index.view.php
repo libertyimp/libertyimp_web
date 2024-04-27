@@ -19,7 +19,6 @@
                     <?php require("./partials/nav.php") ?>
                     <?php require("./partials/about.php") ?>
                     <?php require("./partials/tip.php") ?>
-
                 </div>
             </div>
         </div>
