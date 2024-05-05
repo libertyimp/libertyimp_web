@@ -1,7 +1,7 @@
 <p class="aboutIndex">
     Anarchy, Free Market, Capitalism<br>
     Privacy is vital to a free society.<br>
-    Support the Monero economy on <a class="ipLink" href="https://monerica.com"><b>Monerica</b></a>.<br>
+<br>
 </p>
 
 <a class="ipLink" href="https://nostr.band/npub1haqmanygx8nnzhv6n8ur7ytfpxvkqhamt9r5yd8sjxnpvy7utxgs89cvpg">
