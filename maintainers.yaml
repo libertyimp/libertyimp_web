@@ -4,7 +4,6 @@ relays:
 - wss://nerostr.xmr.rocks/
 - wss://nos.lol/
 - wss://nostr.sethforprivacy.com/
-- wss://relay.0xchat.com/
 - wss://relay.damus.io/
 - wss://relay.nostr.band/
 - wss://relay.nostrplebs.com/

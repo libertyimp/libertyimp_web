@@ -18,10 +18,6 @@
                     <h3><b>LibertyImp</b></h3>
                     <?php require("./partials/nav.php") ?>
 
-                    <h3>Session</h3>
-                    <img class="qr" src="./assests/session_qr.png">
-                    <p>059a914193bab7b652598058ac1f0c7dd<br>570689d19788def83e9d0695b2405790a</p>
-
                     <h3>SimpleX</h3>
                     <img class="qr" src="./assests/simplex_qr.jpeg">
                     <a class="navOptions"
