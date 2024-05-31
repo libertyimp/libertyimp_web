@@ -6,9 +6,6 @@
     <a class="tipLink" id="tipLink" href="tip_btc.php">
         <img src="../assests/btc.svg" alt="btc-logo">
     </a>
-    <a class="tipLink" id="tipLink" href="tip_wow.php">
-        <img src="../assests/wownero-logo.png" alt=" wow-logo">
-    </a>
 
 
 </div>
