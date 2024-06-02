@@ -6,3 +6,5 @@ relays:
 - wss://relay.damus.io/
 - wss://relay.nostr.band/
 - wss://xmr.usenostr.org/
+- wss://his.nostr.land
+- wss://purplepag.es
