@@ -3,8 +3,6 @@ maintainers:
 relays:
 - wss://nerostr.xmr.rocks/
 - wss://nos.lol/
-- wss://nostr.sethforprivacy.com/
 - wss://relay.damus.io/
 - wss://relay.nostr.band/
-- wss://relay.nostrplebs.com/
 - wss://xmr.usenostr.org/
