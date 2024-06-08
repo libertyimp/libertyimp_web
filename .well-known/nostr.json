@@ -9,7 +9,8 @@
         "wss://nerostr.xmr.rocks",
         "wss://relay.damus.io",
         "wss://nos.lol",
-        "wss://purplepag.es"
+        "wss://purplepag.es",
+        "wss://nostr.mutinywallet.com"
       ]
     }
 }

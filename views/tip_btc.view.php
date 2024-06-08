@@ -18,21 +18,21 @@
                     <?php require ("./partials/nav.php") ?>
                     <p>BTC On-Chain</p>
                     <div class="imgLink">
-                        <img class="qr" src="./assests/btc_qr.jpeg">
+                        <img class="qr" src="./assests/btc-onchain.png">
                     </div>
                     <p>
-                        bc1q94tezxnez3lxtu8cp2ppu2yy<br>
-                        vxgvlw4mt2a585
+                        bc1q5kztuwlayun64dshw<br>
+                        9w649yqntlw8r44fcgwdj
                     </p>
 
                     <br>
 
                     <p>LN BTC</p>
                     <div class="imgLink">
-                        <img class="qr" src="./assests/lnbtc.jpeg">
+                        <img class="qr" src="./assests/lnbtc.png">
                     </div>
                     <p>
-                        libertyimp@zeuspay.com
+                        libertyimp@mutiny.plus
                     </p>
 
 
