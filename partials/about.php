@@ -4,7 +4,7 @@
 <br>
 </p>
 
-<a class="ipLink" href="https://nostr.band/npub1haqmanygx8nnzhv6n8ur7ytfpxvkqhamt9r5yd8sjxnpvy7utxgs89cvpg">
+<a class="ipLink" href="https://coracle.social/people/nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3qamnwvaz7tmwdaehgu3wd4hk6tcpr4mhxue69uhkummnw3ezumt4w35ku7thv9kxcet59e3k7mf0qqst7sd7ejyrree3tkdfn7plz95snxtqt7a4j36zxncfrfskz0w9nyg9xqrqs">
     <b>Follow me on Nostr!</b>
 </a>
 <br>
